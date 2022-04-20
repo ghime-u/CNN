@@ -1,0 +1,2 @@
+# CNN
+The Project involved Implementing CNN on different dataset including MNIST, MNIST Fashion Dataset, Greek Symbol dataset, numerical dataset. The project also involved creating truncated networks, digit embedding spaces, analyzing weights of layers, computing SSD, optimizing network. The Final task was to compute the best configuration for parameters like no. of epochs, batch size, kernel size, etc.
