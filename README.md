@@ -1,14 +1,19 @@
 # CNN
 The Project involved Implementing CNN on different dataset including MNIST, MNIST Fashion Dataset, Greek Symbol dataset, numerical dataset. The project also involved creating truncated networks, digit embedding spaces, analyzing weights of layers, computing SSD, optimizing network. The Final task was to compute the best configuration for parameters like no. of epochs, batch size, kernel size, etc.
-%%%%name 
-Utkarsh
 
-%%%%% Windows 10 and google collab
+%%%%
+name: Utkarsh
+
+%%%%% 
+Windows 10 and google collab
 
 
-%%%%instructions:
+%%%%
+instructions:
+
 Task 1: MNISTfile.py
 Mount the google drive first or change all the path varaibles to save the model
+
 Task 1F and G : Task1F.py
 Upload the databases to your google drive, mount the drive and change the path in the .py file
 Or change the path to your local directory
@@ -27,7 +32,8 @@ Task 4:
 Task 4 doesnt involve any path location but every training command will take over 60 minutes as the number of iteration and data point is high
 
 
-%%%% I have not tested any of these files in another IDE, as i had to test each command multiple times i preferred using google colab.
+%%%% 
+I have not tested any of these files in another IDE, as i had to test each command multiple times i preferred using google colab.
 Thank You
 
 
